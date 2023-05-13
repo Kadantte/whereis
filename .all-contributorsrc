@@ -1,0 +1,70 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "dim13",
+      "name": "Dimitri Sokolyuk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4006042?v=4",
+      "profile": "https://www.dim13.org",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "mattn",
+      "name": "mattn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10111?v=4",
+      "profile": "https://mattn.kaoriya.net/",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "Code-Hex",
+      "name": "Kei Kamikawa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6500104?v=4",
+      "profile": "https://codehex.dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "koyashiro",
+      "name": "koyashiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6698252?v=4",
+      "profile": "https://koyashi.ro",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "noborus",
+      "name": "Noboru Saito",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2296563?v=4",
+      "profile": "https://noborus.github.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Ben131-Go",
+      "name": "Ben131-Go",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123849733?v=4",
+      "profile": "https://github.com/Ben131-Go",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "whris",
+  "projectOwner": "harakeishi",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular"
+}
